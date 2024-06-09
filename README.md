@@ -15,7 +15,7 @@ The prototype focuses on creating a user-friendly interface for a hybrid to-do a
 
 ## How to View the Prototype
 
-You can view the Figma prototype by clicking [here]([)](https://www.figma.com/proto/vYLt9ggroBIksVNwxRHAh1/ToDo-and-meditation-app?type=design&node-id=1-3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A3).
+You can view the Figma prototype by clicking [here](https://www.figma.com/proto/vYLt9ggroBIksVNwxRHAh1/ToDo-and-meditation-app?type=design&node-id=1-3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A3).
 
 ## Contact
 
